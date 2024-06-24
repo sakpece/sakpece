@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Khadeer 
-- 👀 I’m interested in Java, Python, PHP 
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Java, Python,NodeJS, PHP ,RasperberryPi and IOT Projects 
+- 🌱 I’m currently learning RasperberryPi
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You to reach me sakpece@gmail.com
 
